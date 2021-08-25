@@ -1,0 +1,7 @@
+name: MinecraftTwitch
+version: '${version}'
+main: tech.reisu1337.minecrafttwitch.MinecraftTwitch
+api-version: 1.17
+authors: [ Reisu1337 ]
+description: Twitch Integration for Minecraft
+website: reisu1337.tech
